@@ -1,6 +1,6 @@
 # Unbeatable-Bot
 
-Project For Educational Purposes and Javascript Data Structures and Algorithms Practice
+Project For Learning Purposes and Javascript Data Structures and Algorithms Practice
 
 ### Algorithm Used :
 The Minimax Algorithm
